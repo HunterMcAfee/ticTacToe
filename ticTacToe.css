@@ -37,7 +37,7 @@ h1 {
 .winning-square {
     background-color: red !important;
     color: #0000FF;
-    animation: blinker 1s linear infinite;
+    animation: blinker 2s linear infinite;
 }
 
 @keyframes blinker {
